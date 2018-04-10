@@ -1,0 +1,8 @@
+Triangle t = new Triangle();
+Square s = new Square();
+Circle c = new Circle();
+
+Rocket r = new Rocket(t, s, c);
+r.animateRocket(10);
+
+r.launch();
