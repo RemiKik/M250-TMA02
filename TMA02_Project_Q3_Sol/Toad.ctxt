@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Toad()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Toad\ with\ the\ default\ characteristics\r\n\ (colour\ brown\ and\ position\ of\ 11).\r\n
+comment1.params=
+comment1.target=void\ home()
+comment1.text=\r\n\ Resets\ the\ receiver\ to\ its\ "home"\ position\ of\ 11.\r\n
+comment2.params=
+comment2.target=void\ left()
+comment2.text=\r\n\ Decrements\ the\ position\ of\ the\ receiver\ by\ 2.\r\n
+comment3.params=
+comment3.target=void\ right()
+comment3.text=\r\n\ Increments\ the\ position\ of\ the\ receiver\ by\ 2.\r\n
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SneakyHoverFrog()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SneakyHoverFrog\r\n
+comment1.params=aSneak
+comment1.target=void\ setIsSneaking(java.lang.Boolean)
+comment1.text=\r\n\ Setter\ method\ for\ the\ booloean\ isSneaking\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.Boolean\ getIsSneaking()
+comment2.text=\r\n\ Getter\ method\ for\ the\ booloean\ isSneaking\r\n\ \r\n
+comment3.params=aColour
+comment3.target=void\ setColour(ou.OUColour)
+comment3.text=\r\n\ Set\ colour\ of\ SneakHoverFrog\r\n\ If\ is\ sneaking\ you\ cannot\ change\ colour\r\n
+comment4.params=
+comment4.target=void\ startSneaking()
+comment4.text=\r\n\ method\ set\ the\ value\ of\ the\ receiver's\ isSneaking\ variable\ to\ true\ \r\n\ and\ its\ colour\ to\ white.\r\n
+comment5.params=
+comment5.target=void\ stopSneaking()
+comment5.text=\r\n\ method\ set\ the\ value\ of\ the\ receiver's\ isSneaking\ variable\ to\ false\ \r\n\ and\ its\ colour\ to\ green.\r\n
+comment6.params=amp
+comment6.target=void\ panicIfCanBeSeen(Amphibian)
+comment6.text=\r\n\ method\ which\ check\ whether\ the\ sneakyHoverFrog\ is\ at\ same\ position\ what\ other\ Amphibian,\r\n\ and\ whether\ the\ height\ is\ bigger\ than\ three.\r\n\ If\ both\ arguments\ evaluates\ to\ true\ the\ SneakyHoverFrog\ change\ colour\ to\ red,\ croak\ 3\ times\ and\r\n\ lower\ the\ height\ until\ height\ \=\ 0\r\n
+numComments=7
